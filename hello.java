@@ -2,7 +2,7 @@ class Hello
 {
 Public static void main(String args[])
 {
-System.out.println(“hello_change new for amend”);
+System.out.println(“Practice makes gurudath perfect”);
 }
 }
 
