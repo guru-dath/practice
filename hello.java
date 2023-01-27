@@ -2,7 +2,7 @@ class Hello
 {
 Public static void main(String args[])
 {
-System.out.println(“Practice makes gurudath perfect”);
+System.out.println(“changes made in child branch”);
 }
 }
 
